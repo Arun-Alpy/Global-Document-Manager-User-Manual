@@ -1,0 +1,3 @@
+yml
+baseurl: "/docs"
+destination: ./docs

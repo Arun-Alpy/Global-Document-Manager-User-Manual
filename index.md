@@ -26,4 +26,6 @@ For further details on the ZenDesk tickets application, please refer to the foll
 5. Access Control
 6. Troubleshooting
 
+[Documentation](./docs/)
+
 
